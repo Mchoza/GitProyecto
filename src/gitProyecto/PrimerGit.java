@@ -7,6 +7,7 @@ public class PrimerGit {
 
 		
 		System.out.println("Hola cara pelota");
+		System.out.println(4+5);
 	}
 
 }
