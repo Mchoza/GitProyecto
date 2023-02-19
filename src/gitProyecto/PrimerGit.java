@@ -8,6 +8,7 @@ public class PrimerGit {
 		int suma = 4+6;
 		System.out.println("Hola cara pelota");
 		System.out.println(suma);
+		System.out.println();
 	}
 
 }
